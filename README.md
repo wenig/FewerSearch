@@ -1,4 +1,4 @@
 FewerSearch
 ===========
 
-FewerSearch - Frontend JS Content Searching
+FewerSearch - Frontend JS Content Searching - jQuery Plugin
