@@ -25,7 +25,7 @@ $(document).ready(function () {
                 }
             });
         } else {
-            $(".fewerrows").css("display", "block");
+            $(".feweritems").parent().css("display", "block");
         }
     });
 });
